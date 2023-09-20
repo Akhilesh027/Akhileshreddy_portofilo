@@ -165,6 +165,6 @@ function time(){
 }
 time();
 t1.to("#loader", {
-    top: "-200vw",
+    top: "-200vh",
     duration:5,
 })
